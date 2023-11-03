@@ -1,0 +1,30 @@
+.block{
+    display: inline-block;
+margin-left: -5px;
+padding-left: 2px;
+padding-right: 3px;
+}
+.bigblock{
+    width: 431px;
+    height: 455px;
+}
+.mainblock{
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+div{
+    border: 2px solid rgb(155, 151, 151);
+}
+body{
+    font-family: sans-serif;
+
+}
+
+iframe {
+padding-left: 17%;
+
+    width: 300px;
+    height: 300px;
+}
